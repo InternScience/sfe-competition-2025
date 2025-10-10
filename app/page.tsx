@@ -398,6 +398,21 @@ export default function SFEChallenge() {
                 affiliation: "Shanghai Artificial Intelligence Laboratory"
               },
               {
+                photo: "/sfe-competition-2025/committee/photo_yl.jpeg",
+                name: "Yan Lu",
+                affiliation: "The Chinese University of Hong Kong"
+              },
+              {
+                photo: "/sfe-competition-2025/committee/photo_sxt.jpeg",
+                name: "Shixiang Tang",
+                affiliation: "Chinese University of Hong Kong"
+              },
+              {
+                photo: "/sfe-competition-2025/committee/photo_yhz.jpeg",
+                name: "Yinghui Zhang",
+                affiliation: "Shanghai Artificial Intelligence Laboratory"
+              },
+              {
                 photo: "/sfe-competition-2025/committee/photo_zcz.jpg",
                 name: "Zicheng Zhang",
                 affiliation: "Shanghai Artificial Intelligence Laboratory"
