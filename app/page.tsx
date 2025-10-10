@@ -429,7 +429,7 @@ export default function SFEChallenge() {
               },
               {
                 photo: "/sfe-competition-2025/committee/photo_lb.jpeg",
-                name: "Bai Lei",
+                name: "Lei Bai",
                 affiliation: "Shanghai Artificial Intelligence Laboratory"
               },
             ].map((advisor, index) => (
