@@ -316,12 +316,12 @@ export default function SFEChallenge() {
               },
               {
                 photo: "/sfe-competition-2025/organizer/photo_cyx.jpg",
-                name: "Zhiwang Zhou",
+                name: "Yixin Chen",
                 affiliation: "University of California Los Angeles"
               },
               {
                 photo: "/sfe-competition-2025/organizer/photo_zx.jpg",
-                name: "Fengxiang Wang",
+                name: "Xiang Zhuang",
                 affiliation: "Zhejiang University"
               },
               {
@@ -331,7 +331,7 @@ export default function SFEChallenge() {
               },
               {
                 photo: "/sfe-competition-2025/organizer/photo_lb.jpg",
-                name: "Fengxiang Wang",
+                name: "Bo Liu",
                 affiliation: "The Hong Kong Polytechnic University"
               },
               {
@@ -368,14 +368,34 @@ export default function SFEChallenge() {
           <div className="grid md:grid-cols-4 gap-6 mb-12">
             {[
               {
-                photo: "/sfe-competition-2025/committee/photo_wlz.jpeg",
+                photo: "/sfe-competition-2025/committee/photo_wlz.jpg",
                 name: "Wenlong Zhang",
                 affiliation: "Shanghai Artificial Intelligence Laboratory"
               },
               {
                 photo: "/sfe-competition-2025/committee/photo_zfy.jpeg",
                 name: "Zhenfei Yin",
-                affiliation: "University of Oxford & Shanghai Artificial Intelligence Laboratory"
+                affiliation: "University of Oxford"
+              },
+              {
+                photo: "/sfe-competition-2025/committee/photo_sqs.jpeg",
+                name: "Siqi Sun",
+                affiliation: "Fudan University"
+              },
+              {
+                photo: "/sfe-competition-2025/committee/photo_tff.webp",
+                name: "Tianfan Fu",
+                affiliation: "Nanjing University"
+              },
+              {
+                photo: "/sfe-competition-2025/committee/photo_dzz.jpeg",
+                name: "Dongzhan Zhou",
+                affiliation: "Shanghai Artificial Intelligence Laboratory"
+              },
+              {
+                photo: "/sfe-competition-2025/committee/photo_fhl.jpeg",
+                name: "Fenghua Ling",
+                affiliation: "Shanghai Artificial Intelligence Laboratory"
               },
               {
                 photo: "/sfe-competition-2025/committee/photo_lb.jpeg",
