@@ -305,6 +305,11 @@ export default function SFEChallenge() {
                 affiliation: "Shanghai Jiao Tong University"
               },
               {
+                photo: "/sfe-competition-2025/organizer/photo_wzl.jpg",
+                name: "Wenzhe Li",
+                affiliation: "Tongji University"
+              },
+              {
                 photo: "/sfe-competition-2025/organizer/photo_wyh.jpg",
                 name: "Yiheng Wang",
                 affiliation: "Shanghai Jiao Tong University"
