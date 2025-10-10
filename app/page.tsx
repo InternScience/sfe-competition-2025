@@ -290,6 +290,21 @@ export default function SFEChallenge() {
                 affiliation: "Sichuan University"
               },
               {
+                photo: "/sfe-competition-2025/organizer/photo_xwh.jpg",
+                name: "Wanghan Xu",
+                affiliation: "Shanghai Jiao Tong University"
+              },
+              {
+                photo: "/sfe-competition-2025/organizer/photo_lb.jpg",
+                name: "Bo Liu",
+                affiliation: "The Hong Kong Polytechnic University"
+              },
+              {
+                photo: "/sfe-competition-2025/organizer/photo_kl.jpg",
+                name: "Li Kang",
+                affiliation: "Shanghai Jiao Tong University"
+              },
+              {
                 photo: "/sfe-competition-2025/organizer/photo_wyh.jpg",
                 name: "Yiheng Wang",
                 affiliation: "Shanghai Jiao Tong University"
@@ -298,11 +313,6 @@ export default function SFEChallenge() {
                 photo: "/sfe-competition-2025/organizer/photo_hxm.jpg",
                 name: "Xuming He",
                 affiliation: "Zhejiang University"
-              },
-              {
-                photo: "/sfe-competition-2025/organizer/photo_xwh.jpg",
-                name: "Wanghan Xu",
-                affiliation: "Shanghai Jiao Tong University"
               },
               {
                 photo: "/sfe-competition-2025/organizer/photo_bj.jpg",
@@ -328,16 +338,6 @@ export default function SFEChallenge() {
                 photo: "/sfe-competition-2025/organizer/photo_wfx.jpg",
                 name: "Fengxiang Wang",
                 affiliation: "National University of Defence Technology"
-              },
-              {
-                photo: "/sfe-competition-2025/organizer/photo_lb.jpg",
-                name: "Bo Liu",
-                affiliation: "The Hong Kong Polytechnic University"
-              },
-              {
-                photo: "/sfe-competition-2025/organizer/photo_kl.jpg",
-                name: "Li Kang",
-                affiliation: "Shanghai Jiao Tong University"
               },
             ].map((organizer, index) => (
               <Card key={index} className="text-center">
