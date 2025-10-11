@@ -342,7 +342,7 @@ export default function SFEChallenge() {
               {
                 photo: "/sfe-competition-2025/organizer/photo_wfx.jpg",
                 name: "Fengxiang Wang",
-                affiliation: "National University of Defence Technology"
+                affiliation: "National University of Defense Technology"
               },
             ].map((organizer, index) => (
               <Card key={index} className="text-center">
@@ -413,7 +413,7 @@ export default function SFEChallenge() {
                 affiliation: "Chinese University of Hong Kong"
               },
               {
-                photo: "/sfe-competition-2025/committee/photo_yhz.jpeg",
+                photo: "/sfe-competition-2025/committee/photo_yhz.jpg",
                 name: "Yinghui Zhang",
                 affiliation: "Shanghai Artificial Intelligence Laboratory"
               },
