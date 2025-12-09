@@ -220,7 +220,7 @@ export default function SFEChallenge() {
                   "We invite researchers and practitioners interested in multimodal models, scientific AI, and automated scientific reasoning to join us in advancing the frontier of AI-empowered scientific discovery!",
                 icon: "🔬",
                 topics: ["Multi Discipline", "Scientific Cognition", "AI for Science"],
-                githubRepo: "https://huggingface.co/datasets/PrismaX/sfe-competition-2025",
+                githubRepo: "https://huggingface.co/datasets/InternScience/SFE-train",
               },
             ].map((track, index) => (
               <Card key={index} className="hover:shadow-lg transition-shadow">
